@@ -10,3 +10,5 @@ dnspython
 paramiko
 python-nmap
 scapy
+h2
+pysocks
