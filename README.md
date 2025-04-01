@@ -11,9 +11,6 @@ Legal & Ethical Notice
 
 For educational purposes only.
 
-Support & Contributions
-Issues: Report bugs on GitHub Issues
 
-Contributions: Pull requests welcome (ethical use cases only)
 
 Disclaimer: This tool is for research and authorized security assessments only. Use responsibly.
