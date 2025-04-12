@@ -30,7 +30,7 @@ from urllib.parse import urlparse
 import ipaddress
 import h2.connection
 import h2.events
-import telnetlib
+import telnetlib3
 import paramiko
 import nmap
 import scapy.all as scapy
